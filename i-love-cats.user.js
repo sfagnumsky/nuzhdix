@@ -21,6 +21,6 @@ fatcock.style.background = 'url("http://live.staticflickr.com/65535/49908501406_
 fatcock.style.cursor = 'pointer';
 document.getElementsByClassName('bbcode_forum')[0].append(knopqa);
 var razdelitel = document.createElement('li');
-razdelitel.class = 'separator';
+razdelitel.className = 'separator';
 knopqa.before(razdelitel);
 knopqa.append(fatcock);
