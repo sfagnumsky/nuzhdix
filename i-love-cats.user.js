@@ -12,12 +12,12 @@
 
 
 'use strict';
-import * as nuzhd from 'http://raw.githubusercontent.com/rndtrash/nushdiki.js/master/nushdiki.js';
+import * from 'http://raw.githubusercontent.com/rndtrash/nushdiki.js/master/nushdiki.js';
 // Thanks ivan2020 ili kak tam tebya zovut for original nushdiki.js
 var knopqa = document.createElement('li');
 knopqa.title = "Нуждик!";
 var fatcock = document.createElement('span');
-fatcock.onclick = document.getElementById('text_msg').value+="\n"+nuzhd.random_nushdik();
+fatcock.onclick = document.getElementById('text_msg').value+="\n"+random_nushdik();
 fatcock.style.height = '24px';
 fatcock.style.position = 'relative';
 fatcock.style.background = 'url("http://live.staticflickr.com/65535/49908501406_51565e8549_o.png") left no-repeat';
