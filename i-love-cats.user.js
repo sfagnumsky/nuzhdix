@@ -18,3 +18,7 @@ var knopqa = document.createElement('li');
 knopqa.title = "Нуждик!";
 var fatcock = document.createElement('span');
 fatcock.onclick = document.getElementById('text_msg').value+="\n"+nuzhd.random_nushdik();
+fatcock.style.height = '24px';
+fatcock.style.position = 'relative';
+fatcock.style.background = 'url("http://live.staticflickr.com/65535/49908501406_51565e8549_o.png") left no-repeat';
+fatcock.style.cursor = 'pointer';
