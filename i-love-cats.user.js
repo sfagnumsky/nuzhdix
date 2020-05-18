@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name         nuzhdixTheGreatKnopka
-// @namespace    nuzhdix
-// @version      4
-// @description Opisanie. Opisal?
-// @author       dik&dok
-// @require http://raw.githubusercontent.com/rndtrash/nushdiki.js/master/nushdiki.js
-// @include        *://ru-minecraft.ru/forum/showtopic-*
-// @downloadUrl https://github.com/sfagnumsky/nuzhdix/raw/dungeonmaster/i-love-cats.user.js
-// @updateUrl https://github.com/sfagnumsky/nuzhdix/raw/dungeonmaster/i-love-cats.user.js
+// @name              nuzhdixTheGreatKnopka
+// @namespace         nuzhdix
+// @version           2.2.8.0.4
+// @description       Opisanie. Opisal?
+// @author            dik&dok
+// @require           http://raw.githubusercontent.com/rndtrash/nushdiki.js/master/nushdiki.js
+// @include           *://ru-minecraft.ru/forum/showtopic-*
+// @downloadUrl       https://github.com/sfagnumsky/nuzhdix/raw/dungeonmaster/i-love-cats.user.js
+// @updateUrl          https://github.com/sfagnumsky/nuzhdix/raw/dungeonmaster/i-love-cats.user.js
 // ==/UserScript==
 'use strict';
 // Thanks ivan2020 ili kak tam tebya zovut for original nushdiki.js
