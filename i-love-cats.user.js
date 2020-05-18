@@ -22,3 +22,5 @@ fatcock.style.height = '24px';
 fatcock.style.position = 'relative';
 fatcock.style.background = 'url("http://live.staticflickr.com/65535/49908501406_51565e8549_o.png") left no-repeat';
 fatcock.style.cursor = 'pointer';
+document.getElementsByClassName('bbcode_forum')[0].append(knopqa);
+knopqa.append(fatcock);
