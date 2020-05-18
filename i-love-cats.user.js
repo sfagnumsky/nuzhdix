@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         nuzhdixTheGreatKnopka
 // @namespace    nuzhdix
-// @version      2.2.8.0.3
+// @version      2.2.8.0.4
 // @description Opisanie. Opisal?
 // @author       dik&dok
 // @require http://raw.githubusercontent.com/rndtrash/nushdiki.js/master/nushdiki.js
