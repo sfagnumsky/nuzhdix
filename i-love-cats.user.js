@@ -6,8 +6,8 @@
 // @author       dik&dok
 // @match        *://ru-minecraft.ru/forum/showtopic-*
 // @grant        none
-// @downloadUrl http://raw.githubusercontent.com/sfagnumsky/nuzhdix/dungeonmaster/i-love-cats.js
-// @updateUrl http://raw.githubusercontent.com/sfagnumsky/nuzhdix/dungeonmaster/i-love-cats.js 
+// @downloadUrl http://raw.githubusercontent.com/sfagnumsky/nuzhdix/dungeonmaster/i-love-cats.user.js
+// @updateUrl http://raw.githubusercontent.com/sfagnumsky/nuzhdix/dungeonmaster/i-love-cats.user.js 
 // ==/UserScript==
 
 
