@@ -22,5 +22,5 @@ fatcock.style.cursor = 'pointer';
 document.getElementsByClassName('bbcode_forum')[0].append(knopqa);
 var razdelitel = document.createElement('li');
 razdelitel.class = 'separator';
-document.knopqa.before(razdelitel);
+knopqa.before(razdelitel);
 knopqa.append(fatcock);
